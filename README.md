@@ -14,7 +14,7 @@ A Java console application designed to practice Object-Oriented Programming (OOP
 * **Methods & Parameters:** Structured business logic into clean, reusable methods for depositing, withdrawing, and displaying account details.
 
 ## 🧰 Tech Stack
-* **Language:** Java (JDK 17+)
+* **Language:** Java (JDK 25)
 * **Interface:** Command Line / Console
 
 ## 💻 How to Run
