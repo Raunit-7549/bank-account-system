@@ -19,7 +19,7 @@ A Java console application designed to practice Object-Oriented Programming (OOP
 
 ## 💻 How to Run
 
-1. **Clone the repository:**
+  **Clone the repository:**
    ```bash
-  git clone [https://github.com/Raunit-7549/bank-account-system.git](https://github.com/Raunit-7549/bank-account-system.git)
-  cd bank-account-system
+   git clone [https://github.com/Raunit-7549/bank-account-system.git](https://github.com/Raunit-7549/bank-account-system.git)
+   cd bank-account-system
